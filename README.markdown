@@ -98,5 +98,3 @@ The output CSV contains the following columns:
 ## Contributing
 Contributions are welcome! Please submit a pull request or open an issue for bug reports, feature requests, or improvements.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
